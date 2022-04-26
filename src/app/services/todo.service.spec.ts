@@ -42,8 +42,4 @@ describe('TodoService', () => {
     });
   });
 
-  it('deve retornar um erro', () => { })
-
-
-
 });
