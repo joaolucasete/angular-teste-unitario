@@ -1,4 +1,5 @@
 # Angular testes unitário
+[![Angular CI](https://github.com/joaolucasete/angular-teste-unitario/actions/workflows/angular-test.yml/badge.svg?branch=main)](https://github.com/joaolucasete/angular-teste-unitario/actions/workflows/angular-test.yml)
 
 ## Requisitos
 
