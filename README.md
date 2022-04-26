@@ -15,6 +15,16 @@
 ng new [nome-projeto]
 ex. `ng new angular-teste-unitario`
 ```
+
+## Rodar o projeto
+```bash
+git clone https://github.com/joaolucasete/angular-teste-unitario.git
+cd angular-teste-unitario
+npm i
+npm run start
+```
+`npm run start` executará um `ng serve` que sobe um servidor de desenvolvimento como explicado abaixo
+
 ## Servidor de desenvolvimento
 
 Rode `ng serve` para um servidor de desenvolvimento. Abra o browser em `http://localhost:4200/`. O app automaticamente recarregará se algum arquivo for alterado.
